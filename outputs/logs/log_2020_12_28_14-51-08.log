@@ -1,0 +1,12 @@
+2020-12-28 14:51:08,523	Sequential Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 14:51:08,525	Sequential Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 14:51:08,525	Sequential Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2020-12-28 14:51:08,525	Sequential Batch Processor	INFO	Processing 3 scenarios:
+2020-12-28 14:51:08,525	Sequential Batch Processor	INFO	   1 DEU_Lohmar-35_1_T-1
+2020-12-28 14:51:08,525	Sequential Batch Processor	INFO	   2 ESP_Berga-9_1_T-1
+2020-12-28 14:51:08,525	Sequential Batch Processor	INFO	   3 USA_US101-28_1_T-1
+2020-12-28 14:51:08,529	Sequential Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 14:51:08,529	Sequential Batch Processor	INFO	Motion planner: astar
+2020-12-28 14:51:08,529	Sequential Batch Processor	DEBUG	Start processing [DEU_Lohmar-35_1_T-1           ]
+2020-12-28 14:51:10,517	Sequential Batch Processor	DEBUG	Start processing [ESP_Berga-9_1_T-1             ]
+2020-12-28 14:51:12,333	Sequential Batch Processor	DEBUG	Start processing [USA_US101-28_1_T-1            ]

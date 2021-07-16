@@ -1,0 +1,1 @@
+You don't need to reinstall the cr37 conda environment and reinstall the commonroad-io package as mentioned in the video. The video was targeted at someone without a working commonroad environment.

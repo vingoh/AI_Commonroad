@@ -1,0 +1,984 @@
+2020-12-28 15:04:46,759	Batch Processor	INFO	Config file loaded and logger created.
+2020-12-28 15:04:46,765	Batch Processor	INFO	18 scenarios skipped.
+2020-12-28 15:04:46,766	Batch Processor	INFO	ScenarioLoader Mode <DEFAULT>
+2020-12-28 15:04:46,766	Batch Processor	INFO	Run on all scenarios, except the skipped scenarios
+2020-12-28 15:04:46,766	Batch Processor	INFO	Number of scenarios: 500
+2020-12-28 15:04:47,186	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2020-12-28 15:04:47,186	Batch Processor	INFO	Motion planner: dls
+2020-12-28 15:04:47,292	Batch Processor	INFO	Number of parallel processes: 6
+2020-12-28 15:23:30,525	Batch Processor	INFO	==============================        Search Results        ==============================
+2020-12-28 15:23:30,537	Batch Processor	INFO	[ARG_Carcarana-11_1_T-1        ]	<SUCCESS>	 Time [ms]:	  1187	
+2020-12-28 15:23:30,538	Batch Processor	INFO	[ARG_Carcarana-13_1_T-1        ]	<SUCCESS>	 Time [ms]:	  1019	
+2020-12-28 15:23:30,538	Batch Processor	INFO	[ARG_Carcarana-2_3_T-1         ]	<SUCCESS>	 Time [ms]:	   976	
+2020-12-28 15:23:30,539	Batch Processor	INFO	[ARG_Carcarana-3_3_T-1         ]	<SUCCESS>	 Time [ms]:	  1627	
+2020-12-28 15:23:30,540	Batch Processor	INFO	[ARG_Carcarana-5_2_T-1         ]	<SUCCESS>	 Time [ms]:	   992	
+2020-12-28 15:23:30,541	Batch Processor	INFO	[ARG_Carcarana-7_1_T-1         ]	<SUCCESS>	 Time [ms]:	  1060	
+2020-12-28 15:23:30,541	Batch Processor	INFO	[ARG_Carcarana-8_4_T-1         ]	<FAILURE>	 Time [ms]:	   653
+2020-12-28 15:23:30,542	Batch Processor	INFO	[ARG_Carcarana-9_2_T-1         ]	<SUCCESS>	 Time [ms]:	  1091	
+2020-12-28 15:23:30,542	Batch Processor	INFO	[BEL_Aarschot-11_1_T-1         ]	<SUCCESS>	 Time [ms]:	   310	
+2020-12-28 15:23:30,543	Batch Processor	INFO	[BEL_Aarschot-1_2_T-1          ]	<SUCCESS>	 Time [ms]:	   555	
+2020-12-28 15:23:30,544	Batch Processor	INFO	[BEL_Aarschot-3_1_T-1          ]	<SUCCESS>	 Time [ms]:	   312	
+2020-12-28 15:23:30,545	Batch Processor	INFO	[BEL_Aarschot-5_1_T-1          ]	<SUCCESS>	 Time [ms]:	   552	
+2020-12-28 15:23:30,545	Batch Processor	INFO	[BEL_Aarschot-6_1_T-1          ]	<FAILURE>	 Time [ms]:	   503
+2020-12-28 15:23:30,546	Batch Processor	INFO	[BEL_Beringen-1_1_T-1          ]	<SUCCESS>	 Time [ms]:	   544	
+2020-12-28 15:23:30,547	Batch Processor	INFO	[BEL_Beringen-8_1_T-1          ]	<SUCCESS>	 Time [ms]:	   468	
+2020-12-28 15:23:30,547	Batch Processor	INFO	[BEL_Nivelles-10_1_T-1         ]	<SUCCESS>	 Time [ms]:	   290	
+2020-12-28 15:23:30,548	Batch Processor	INFO	[BEL_Nivelles-16_2_T-1         ]	<SUCCESS>	 Time [ms]:	   203	
+2020-12-28 15:23:30,549	Batch Processor	INFO	[BEL_Nivelles-18_2_T-1         ]	<SUCCESS>	 Time [ms]:	   413	
+2020-12-28 15:23:30,550	Batch Processor	INFO	[BEL_Nivelles-19_1_T-1         ]	<SUCCESS>	 Time [ms]:	   620	
+2020-12-28 15:23:30,551	Batch Processor	INFO	[BEL_Nivelles-1_1_T-1          ]	<SUCCESS>	 Time [ms]:	   429	
+2020-12-28 15:23:30,551	Batch Processor	INFO	[BEL_Nivelles-20_1_T-1         ]	<SUCCESS>	 Time [ms]:	   553	
+2020-12-28 15:23:30,552	Batch Processor	INFO	[BEL_Nivelles-3_1_T-1          ]	<SUCCESS>	 Time [ms]:	   467	
+2020-12-28 15:23:30,553	Batch Processor	INFO	[BEL_Nivelles-4_2_T-1          ]	<SUCCESS>	 Time [ms]:	   376	
+2020-12-28 15:23:30,554	Batch Processor	INFO	[BEL_Nivelles-9_2_T-1          ]	<SUCCESS>	 Time [ms]:	   822	
+2020-12-28 15:23:30,554	Batch Processor	INFO	[BEL_Putte-10_2_T-1            ]	<SUCCESS>	 Time [ms]:	   297	
+2020-12-28 15:23:30,555	Batch Processor	INFO	[BEL_Putte-11_2_T-1            ]	<SUCCESS>	 Time [ms]:	   364	
+2020-12-28 15:23:30,555	Batch Processor	INFO	[BEL_Putte-14_3_T-1            ]	<FAILURE>	 Time [ms]:	   211
+2020-12-28 15:23:30,556	Batch Processor	INFO	[BEL_Putte-17_1_T-1            ]	<FAILURE>	 Time [ms]:	   269
+2020-12-28 15:23:30,556	Batch Processor	INFO	[BEL_Putte-2_1_T-1             ]	<SUCCESS>	 Time [ms]:	   372	
+2020-12-28 15:23:30,557	Batch Processor	INFO	[BEL_Putte-3_1_T-1             ]	<SUCCESS>	 Time [ms]:	   325	
+2020-12-28 15:23:30,558	Batch Processor	INFO	[BEL_Putte-4_2_T-1             ]	<SUCCESS>	 Time [ms]:	   593	
+2020-12-28 15:23:30,559	Batch Processor	INFO	[BEL_Putte-6_1_T-1             ]	<SUCCESS>	 Time [ms]:	   400	
+2020-12-28 15:23:30,559	Batch Processor	INFO	[BEL_Wervik-1_4_T-1            ]	<SUCCESS>	 Time [ms]:	   367	
+2020-12-28 15:23:30,560	Batch Processor	INFO	[BEL_Wervik-2_2_T-1            ]	<SUCCESS>	 Time [ms]:	   630	
+2020-12-28 15:23:30,561	Batch Processor	INFO	[BEL_Wervik-4_1_T-1            ]	<SUCCESS>	 Time [ms]:	   708	
+2020-12-28 15:23:30,562	Batch Processor	INFO	[BEL_Zaventem-1_2_T-1          ]	<SUCCESS>	 Time [ms]:	   686	
+2020-12-28 15:23:30,562	Batch Processor	INFO	[BEL_Zaventem-3_1_T-1          ]	<SUCCESS>	 Time [ms]:	   334	
+2020-12-28 15:23:30,563	Batch Processor	INFO	[BEL_Zaventem-4_1_T-1          ]	<SUCCESS>	 Time [ms]:	   416	
+2020-12-28 15:23:30,564	Batch Processor	INFO	[BEL_Zaventem-5_3_T-1          ]	<SUCCESS>	 Time [ms]:	   330	
+2020-12-28 15:23:30,565	Batch Processor	INFO	[BEL_Zwevegem-2_3_T-1          ]	<SUCCESS>	 Time [ms]:	   551	
+2020-12-28 15:23:30,566	Batch Processor	INFO	[BEL_Zwevegem-3_1_T-1          ]	<SUCCESS>	 Time [ms]:	   328	
+2020-12-28 15:23:30,567	Batch Processor	INFO	[BEL_Zwevegem-5_2_T-1          ]	<SUCCESS>	 Time [ms]:	   619	
+2020-12-28 15:23:30,568	Batch Processor	INFO	[BEL_Zwevegem-7_2_T-1          ]	<SUCCESS>	 Time [ms]:	   630	
+2020-12-28 15:23:30,569	Batch Processor	INFO	[BEL_Zwevegem-8_1_T-1          ]	<SUCCESS>	 Time [ms]:	   392	
+2020-12-28 15:23:30,570	Batch Processor	INFO	[BEL_Zwevegem-8_4_T-1          ]	<SUCCESS>	 Time [ms]:	   491	
+2020-12-28 15:23:30,570	Batch Processor	INFO	[DEU_Backnang-1_2_T-1          ]	<SUCCESS>	 Time [ms]:	  1190	
+2020-12-28 15:23:30,571	Batch Processor	INFO	[DEU_Backnang-4_1_T-1          ]	<SUCCESS>	 Time [ms]:	   654	
+2020-12-28 15:23:30,572	Batch Processor	INFO	[DEU_Backnang-5_1_T-1          ]	<SUCCESS>	 Time [ms]:	   589	
+2020-12-28 15:23:30,573	Batch Processor	INFO	[DEU_Backnang-6_1_T-1          ]	<SUCCESS>	 Time [ms]:	   621	
+2020-12-28 15:23:30,574	Batch Processor	INFO	[DEU_Backnang-9_1_T-1          ]	<SUCCESS>	 Time [ms]:	   273	
+2020-12-28 15:23:30,575	Batch Processor	INFO	[DEU_BadEssen-3_1_T-1          ]	<SUCCESS>	 Time [ms]:	   891	
+2020-12-28 15:23:30,576	Batch Processor	INFO	[DEU_BadEssen-4_1_T-1          ]	<SUCCESS>	 Time [ms]:	   218	
+2020-12-28 15:23:30,576	Batch Processor	INFO	[DEU_BadWaldsee-1_1_T-1        ]	<SUCCESS>	 Time [ms]:	   641	
+2020-12-28 15:23:30,577	Batch Processor	INFO	[DEU_BadWaldsee-4_2_T-1        ]	<SUCCESS>	 Time [ms]:	   339	
+2020-12-28 15:23:30,578	Batch Processor	INFO	[DEU_BadWaldsee-4_5_T-1        ]	<SUCCESS>	 Time [ms]:	   321	
+2020-12-28 15:23:30,579	Batch Processor	INFO	[DEU_Bilderstoeckchen-2_3_T-1  ]	<SUCCESS>	 Time [ms]:	   442	
+2020-12-28 15:23:30,580	Batch Processor	INFO	[DEU_Bilderstoeckchen-4_1_T-1  ]	<SUCCESS>	 Time [ms]:	   361	
+2020-12-28 15:23:30,580	Batch Processor	INFO	[DEU_Flensburg-10_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,581	Batch Processor	INFO	[DEU_Flensburg-11_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,581	Batch Processor	INFO	[DEU_Flensburg-12_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,581	Batch Processor	INFO	[DEU_Flensburg-13_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,581	Batch Processor	INFO	[DEU_Flensburg-14_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,582	Batch Processor	INFO	[DEU_Flensburg-15_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,582	Batch Processor	INFO	[DEU_Flensburg-16_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,582	Batch Processor	INFO	[DEU_Flensburg-17_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,582	Batch Processor	INFO	[DEU_Flensburg-18_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,583	Batch Processor	INFO	[DEU_Flensburg-19_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,583	Batch Processor	INFO	[DEU_Flensburg-20_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,583	Batch Processor	INFO	[DEU_Flensburg-21_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,583	Batch Processor	INFO	[DEU_Flensburg-22_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,584	Batch Processor	INFO	[DEU_Flensburg-23_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,584	Batch Processor	INFO	[DEU_Flensburg-24_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,584	Batch Processor	INFO	[DEU_Flensburg-25_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,584	Batch Processor	INFO	[DEU_Flensburg-26_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,585	Batch Processor	INFO	[DEU_Flensburg-27_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,585	Batch Processor	INFO	[DEU_Flensburg-28_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,585	Batch Processor	INFO	[DEU_Flensburg-29_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,585	Batch Processor	INFO	[DEU_Flensburg-2_1_T-1         ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,585	Batch Processor	INFO	[DEU_Flensburg-30_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,586	Batch Processor	INFO	[DEU_Flensburg-31_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,586	Batch Processor	INFO	[DEU_Flensburg-32_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,586	Batch Processor	INFO	[DEU_Flensburg-33_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,586	Batch Processor	INFO	[DEU_Flensburg-34_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,587	Batch Processor	INFO	[DEU_Flensburg-35_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,587	Batch Processor	INFO	[DEU_Flensburg-36_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,587	Batch Processor	INFO	[DEU_Flensburg-37_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,587	Batch Processor	INFO	[DEU_Flensburg-38_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,587	Batch Processor	INFO	[DEU_Flensburg-39_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,587	Batch Processor	INFO	[DEU_Flensburg-40_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,588	Batch Processor	INFO	[DEU_Flensburg-41_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,588	Batch Processor	INFO	[DEU_Flensburg-42_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,588	Batch Processor	INFO	[DEU_Flensburg-43_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,588	Batch Processor	INFO	[DEU_Flensburg-44_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,588	Batch Processor	INFO	[DEU_Flensburg-45_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,589	Batch Processor	INFO	[DEU_Flensburg-46_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,589	Batch Processor	INFO	[DEU_Flensburg-47_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,589	Batch Processor	INFO	[DEU_Flensburg-48_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,589	Batch Processor	INFO	[DEU_Flensburg-49_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,589	Batch Processor	INFO	[DEU_Flensburg-50_1_T-1        ]	<SUCCESS>	 Time [ms]:	 23111	
+2020-12-28 15:23:30,590	Batch Processor	INFO	[DEU_Flensburg-51_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,590	Batch Processor	INFO	[DEU_Flensburg-52_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,590	Batch Processor	INFO	[DEU_Flensburg-53_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,590	Batch Processor	INFO	[DEU_Flensburg-54_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,590	Batch Processor	INFO	[DEU_Flensburg-55_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,591	Batch Processor	INFO	[DEU_Flensburg-56_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,591	Batch Processor	INFO	[DEU_Flensburg-57_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,591	Batch Processor	INFO	[DEU_Flensburg-58_1_T-1        ]	<SUCCESS>	 Time [ms]:	 16960	
+2020-12-28 15:23:30,591	Batch Processor	INFO	[DEU_Flensburg-59_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,591	Batch Processor	INFO	[DEU_Flensburg-60_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,591	Batch Processor	INFO	[DEU_Flensburg-61_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,592	Batch Processor	INFO	[DEU_Flensburg-62_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,592	Batch Processor	INFO	[DEU_Flensburg-63_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,592	Batch Processor	INFO	[DEU_Flensburg-64_1_T-1        ]	<FAILURE>	 Time [ms]:	   502
+2020-12-28 15:23:30,592	Batch Processor	INFO	[DEU_Flensburg-65_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,592	Batch Processor	INFO	[DEU_Flensburg-66_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,592	Batch Processor	INFO	[DEU_Flensburg-67_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,593	Batch Processor	INFO	[DEU_Flensburg-68_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,593	Batch Processor	INFO	[DEU_Flensburg-69_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,593	Batch Processor	INFO	[DEU_Flensburg-70_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,593	Batch Processor	INFO	[DEU_Flensburg-71_1_T-1        ]	<SUCCESS>	 Time [ms]:	 25338	
+2020-12-28 15:23:30,593	Batch Processor	INFO	[DEU_Flensburg-72_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,594	Batch Processor	INFO	[DEU_Flensburg-73_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,594	Batch Processor	INFO	[DEU_Flensburg-74_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,594	Batch Processor	INFO	[DEU_Flensburg-75_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,594	Batch Processor	INFO	[DEU_Flensburg-76_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,594	Batch Processor	INFO	[DEU_Flensburg-77_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,594	Batch Processor	INFO	[DEU_Flensburg-78_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,595	Batch Processor	INFO	[DEU_Flensburg-79_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,595	Batch Processor	INFO	[DEU_Flensburg-80_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,595	Batch Processor	INFO	[DEU_Flensburg-81_1_T-1        ]	<SUCCESS>	 Time [ms]:	  8222	
+2020-12-28 15:23:30,595	Batch Processor	INFO	[DEU_Flensburg-82_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,595	Batch Processor	INFO	[DEU_Flensburg-83_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,596	Batch Processor	INFO	[DEU_Flensburg-84_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,596	Batch Processor	INFO	[DEU_Flensburg-85_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,596	Batch Processor	INFO	[DEU_Flensburg-86_1_T-1        ]	<SUCCESS>	 Time [ms]:	 14630	
+2020-12-28 15:23:30,596	Batch Processor	INFO	[DEU_Flensburg-87_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,596	Batch Processor	INFO	[DEU_Flensburg-88_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,596	Batch Processor	INFO	[DEU_Flensburg-89_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,597	Batch Processor	INFO	[DEU_Flensburg-90_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,597	Batch Processor	INFO	[DEU_Flensburg-91_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,597	Batch Processor	INFO	[DEU_Flensburg-92_1_T-1        ]	<SUCCESS>	 Time [ms]:	  6997	
+2020-12-28 15:23:30,597	Batch Processor	INFO	[DEU_Flensburg-93_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,597	Batch Processor	INFO	[DEU_Flensburg-94_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,598	Batch Processor	INFO	[DEU_Flensburg-95_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,598	Batch Processor	INFO	[DEU_Flensburg-96_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,598	Batch Processor	INFO	[DEU_Flensburg-97_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,598	Batch Processor	INFO	[DEU_Flensburg-98_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,598	Batch Processor	INFO	[DEU_Flensburg-99_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,598	Batch Processor	INFO	[DEU_Guetersloh-10_4_T-1       ]	<FAILURE>	 Time [ms]:	   736
+2020-12-28 15:23:30,599	Batch Processor	INFO	[DEU_Guetersloh-10_5_T-1       ]	<SUCCESS>	 Time [ms]:	   744	
+2020-12-28 15:23:30,600	Batch Processor	INFO	[DEU_Guetersloh-11_3_T-1       ]	<SUCCESS>	 Time [ms]:	   661	
+2020-12-28 15:23:30,601	Batch Processor	INFO	[DEU_Guetersloh-12_1_T-1       ]	<SUCCESS>	 Time [ms]:	   463	
+2020-12-28 15:23:30,602	Batch Processor	INFO	[DEU_Guetersloh-14_2_T-1       ]	<SUCCESS>	 Time [ms]:	   371	
+2020-12-28 15:23:30,602	Batch Processor	INFO	[DEU_Guetersloh-15_2_T-1       ]	<SUCCESS>	 Time [ms]:	   981	
+2020-12-28 15:23:30,603	Batch Processor	INFO	[DEU_Guetersloh-16_2_T-1       ]	<SUCCESS>	 Time [ms]:	   533	
+2020-12-28 15:23:30,604	Batch Processor	INFO	[DEU_Guetersloh-16_5_T-1       ]	<SUCCESS>	 Time [ms]:	   618	
+2020-12-28 15:23:30,605	Batch Processor	INFO	[DEU_Guetersloh-17_2_T-1       ]	<SUCCESS>	 Time [ms]:	   496	
+2020-12-28 15:23:30,606	Batch Processor	INFO	[DEU_Guetersloh-18_2_T-1       ]	<SUCCESS>	 Time [ms]:	   375	
+2020-12-28 15:23:30,607	Batch Processor	INFO	[DEU_Guetersloh-19_1_T-1       ]	<SUCCESS>	 Time [ms]:	   504	
+2020-12-28 15:23:30,608	Batch Processor	INFO	[DEU_Guetersloh-20_1_T-1       ]	<SUCCESS>	 Time [ms]:	   482	
+2020-12-28 15:23:30,609	Batch Processor	INFO	[DEU_Guetersloh-20_3_T-1       ]	<SUCCESS>	 Time [ms]:	   416	
+2020-12-28 15:23:30,609	Batch Processor	INFO	[DEU_Guetersloh-21_1_T-1       ]	<SUCCESS>	 Time [ms]:	   989	
+2020-12-28 15:23:30,610	Batch Processor	INFO	[DEU_Guetersloh-24_1_T-1       ]	<SUCCESS>	 Time [ms]:	   610	
+2020-12-28 15:23:30,611	Batch Processor	INFO	[DEU_Guetersloh-24_2_T-1       ]	<SUCCESS>	 Time [ms]:	   496	
+2020-12-28 15:23:30,612	Batch Processor	INFO	[DEU_Guetersloh-24_3_T-1       ]	<SUCCESS>	 Time [ms]:	   466	
+2020-12-28 15:23:30,613	Batch Processor	INFO	[DEU_Guetersloh-25_2_T-1       ]	<SUCCESS>	 Time [ms]:	   645	
+2020-12-28 15:23:30,614	Batch Processor	INFO	[DEU_Guetersloh-25_4_T-1       ]	<SUCCESS>	 Time [ms]:	   769	
+2020-12-28 15:23:30,615	Batch Processor	INFO	[DEU_Guetersloh-27_1_T-1       ]	<SUCCESS>	 Time [ms]:	   451	
+2020-12-28 15:23:30,616	Batch Processor	INFO	[DEU_Guetersloh-30_1_T-1       ]	<SUCCESS>	 Time [ms]:	   746	
+2020-12-28 15:23:30,617	Batch Processor	INFO	[DEU_Guetersloh-31_4_T-1       ]	<SUCCESS>	 Time [ms]:	   526	
+2020-12-28 15:23:30,618	Batch Processor	INFO	[DEU_Guetersloh-32_3_T-1       ]	<SUCCESS>	 Time [ms]:	   569	
+2020-12-28 15:23:30,619	Batch Processor	INFO	[DEU_Guetersloh-33_1_T-1       ]	<SUCCESS>	 Time [ms]:	   551	
+2020-12-28 15:23:30,620	Batch Processor	INFO	[DEU_Guetersloh-34_2_T-1       ]	<SUCCESS>	 Time [ms]:	   449	
+2020-12-28 15:23:30,620	Batch Processor	INFO	[DEU_Guetersloh-36_1_T-1       ]	<SUCCESS>	 Time [ms]:	   503	
+2020-12-28 15:23:30,621	Batch Processor	INFO	[DEU_Guetersloh-39_3_T-1       ]	<SUCCESS>	 Time [ms]:	   418	
+2020-12-28 15:23:30,622	Batch Processor	INFO	[DEU_Guetersloh-39_5_T-1       ]	<SUCCESS>	 Time [ms]:	   419	
+2020-12-28 15:23:30,623	Batch Processor	INFO	[DEU_Guetersloh-40_4_T-1       ]	<SUCCESS>	 Time [ms]:	   463	
+2020-12-28 15:23:30,623	Batch Processor	INFO	[DEU_Guetersloh-40_5_T-1       ]	<SUCCESS>	 Time [ms]:	   453	
+2020-12-28 15:23:30,624	Batch Processor	INFO	[DEU_Guetersloh-41_1_T-1       ]	<SUCCESS>	 Time [ms]:	   594	
+2020-12-28 15:23:30,625	Batch Processor	INFO	[DEU_Guetersloh-42_1_T-1       ]	<SUCCESS>	 Time [ms]:	   509	
+2020-12-28 15:23:30,626	Batch Processor	INFO	[DEU_Guetersloh-4_5_T-1        ]	<SUCCESS>	 Time [ms]:	   697	
+2020-12-28 15:23:30,626	Batch Processor	INFO	[DEU_Guetersloh-50_1_T-1       ]	<SUCCESS>	 Time [ms]:	   463	
+2020-12-28 15:23:30,627	Batch Processor	INFO	[DEU_Guetersloh-54_1_T-1       ]	<SUCCESS>	 Time [ms]:	   523	
+2020-12-28 15:23:30,628	Batch Processor	INFO	[DEU_Guetersloh-55_1_T-1       ]	<SUCCESS>	 Time [ms]:	   407	
+2020-12-28 15:23:30,628	Batch Processor	INFO	[DEU_Guetersloh-55_3_T-1       ]	<SUCCESS>	 Time [ms]:	   480	
+2020-12-28 15:23:30,629	Batch Processor	INFO	[DEU_Guetersloh-65_2_T-1       ]	<SUCCESS>	 Time [ms]:	   367	
+2020-12-28 15:23:30,630	Batch Processor	INFO	[DEU_Guetersloh-6_3_T-1        ]	<SUCCESS>	 Time [ms]:	   486	
+2020-12-28 15:23:30,631	Batch Processor	INFO	[DEU_Guetersloh-7_2_T-1        ]	<SUCCESS>	 Time [ms]:	   723	
+2020-12-28 15:23:30,632	Batch Processor	INFO	[DEU_Guetersloh-8_1_T-1        ]	<SUCCESS>	 Time [ms]:	   567	
+2020-12-28 15:23:30,633	Batch Processor	INFO	[DEU_Hennigsdorf-11_1_T-1      ]	<SUCCESS>	 Time [ms]:	   413	
+2020-12-28 15:23:30,634	Batch Processor	INFO	[DEU_Hennigsdorf-12_1_T-1      ]	<SUCCESS>	 Time [ms]:	   360	
+2020-12-28 15:23:30,634	Batch Processor	INFO	[DEU_Hennigsdorf-13_2_T-1      ]	<SUCCESS>	 Time [ms]:	   562	
+2020-12-28 15:23:30,635	Batch Processor	INFO	[DEU_Hennigsdorf-14_3_T-1      ]	<SUCCESS>	 Time [ms]:	   520	
+2020-12-28 15:23:30,636	Batch Processor	INFO	[DEU_Hennigsdorf-15_3_T-1      ]	<SUCCESS>	 Time [ms]:	   713	
+2020-12-28 15:23:30,636	Batch Processor	INFO	[DEU_Hennigsdorf-18_2_T-1      ]	<SUCCESS>	 Time [ms]:	   263	
+2020-12-28 15:23:30,637	Batch Processor	INFO	[DEU_Hennigsdorf-3_2_T-1       ]	<SUCCESS>	 Time [ms]:	   431	
+2020-12-28 15:23:30,638	Batch Processor	INFO	[DEU_Hennigsdorf-3_5_T-1       ]	<SUCCESS>	 Time [ms]:	   475	
+2020-12-28 15:23:30,639	Batch Processor	INFO	[DEU_Hennigsdorf-5_1_T-1       ]	<SUCCESS>	 Time [ms]:	   278	
+2020-12-28 15:23:30,640	Batch Processor	INFO	[DEU_Hennigsdorf-5_4_T-1       ]	<SUCCESS>	 Time [ms]:	   746	
+2020-12-28 15:23:30,641	Batch Processor	INFO	[DEU_Hennigsdorf-7_3_T-1       ]	<SUCCESS>	 Time [ms]:	   478	
+2020-12-28 15:23:30,642	Batch Processor	INFO	[DEU_Hennigsdorf-9_2_T-1       ]	<SUCCESS>	 Time [ms]:	  1003	
+2020-12-28 15:23:30,643	Batch Processor	INFO	[DEU_Ibbenbueren-10_2_T-1      ]	<SUCCESS>	 Time [ms]:	   506	
+2020-12-28 15:23:30,644	Batch Processor	INFO	[DEU_Ibbenbueren-11_2_T-1      ]	<SUCCESS>	 Time [ms]:	   484	
+2020-12-28 15:23:30,644	Batch Processor	INFO	[DEU_Ibbenbueren-12_1_T-1      ]	<SUCCESS>	 Time [ms]:	   736	
+2020-12-28 15:23:30,645	Batch Processor	INFO	[DEU_Ibbenbueren-13_3_T-1      ]	<SUCCESS>	 Time [ms]:	   501	
+2020-12-28 15:23:30,646	Batch Processor	INFO	[DEU_Ibbenbueren-14_1_T-1      ]	<SUCCESS>	 Time [ms]:	   563	
+2020-12-28 15:23:30,647	Batch Processor	INFO	[DEU_Ibbenbueren-15_4_T-1      ]	<SUCCESS>	 Time [ms]:	   642	
+2020-12-28 15:23:30,648	Batch Processor	INFO	[DEU_Ibbenbueren-16_3_T-1      ]	<SUCCESS>	 Time [ms]:	   602	
+2020-12-28 15:23:30,648	Batch Processor	INFO	[DEU_Ibbenbueren-16_5_T-1      ]	<SUCCESS>	 Time [ms]:	   527	
+2020-12-28 15:23:30,649	Batch Processor	INFO	[DEU_Ibbenbueren-2_2_T-1       ]	<SUCCESS>	 Time [ms]:	   511	
+2020-12-28 15:23:30,650	Batch Processor	INFO	[DEU_Ibbenbueren-3_3_T-1       ]	<SUCCESS>	 Time [ms]:	   432	
+2020-12-28 15:23:30,651	Batch Processor	INFO	[DEU_Ibbenbueren-4_2_T-1       ]	<SUCCESS>	 Time [ms]:	  1102	
+2020-12-28 15:23:30,652	Batch Processor	INFO	[DEU_Ibbenbueren-6_3_T-1       ]	<SUCCESS>	 Time [ms]:	   717	
+2020-12-28 15:23:30,653	Batch Processor	INFO	[DEU_Ibbenbueren-6_4_T-1       ]	<SUCCESS>	 Time [ms]:	   597	
+2020-12-28 15:23:30,653	Batch Processor	INFO	[DEU_Ibbenbueren-7_1_T-1       ]	<SUCCESS>	 Time [ms]:	   582	
+2020-12-28 15:23:30,654	Batch Processor	INFO	[DEU_Ibbenbueren-9_1_T-1       ]	<SUCCESS>	 Time [ms]:	   489	
+2020-12-28 15:23:30,655	Batch Processor	INFO	[DEU_Lohmar-10_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,655	Batch Processor	INFO	[DEU_Lohmar-11_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,655	Batch Processor	INFO	[DEU_Lohmar-12_1_T-1           ]	<FAILURE>	 Time [ms]:	   632
+2020-12-28 15:23:30,655	Batch Processor	INFO	[DEU_Lohmar-13_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,656	Batch Processor	INFO	[DEU_Lohmar-14_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,656	Batch Processor	INFO	[DEU_Lohmar-15_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,656	Batch Processor	INFO	[DEU_Lohmar-16_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,656	Batch Processor	INFO	[DEU_Lohmar-17_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,657	Batch Processor	INFO	[DEU_Lohmar-18_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,657	Batch Processor	INFO	[DEU_Lohmar-19_1_T-1           ]	<FAILURE>	 Time [ms]:	  6057
+2020-12-28 15:23:30,657	Batch Processor	INFO	[DEU_Lohmar-20_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,657	Batch Processor	INFO	[DEU_Lohmar-21_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,657	Batch Processor	INFO	[DEU_Lohmar-22_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,658	Batch Processor	INFO	[DEU_Lohmar-23_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,658	Batch Processor	INFO	[DEU_Lohmar-24_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,658	Batch Processor	INFO	[DEU_Lohmar-25_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,658	Batch Processor	INFO	[DEU_Lohmar-26_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,658	Batch Processor	INFO	[DEU_Lohmar-27_1_T-1           ]	<SUCCESS>	 Time [ms]:	  9617	
+2020-12-28 15:23:30,658	Batch Processor	INFO	[DEU_Lohmar-28_1_T-1           ]	<SUCCESS>	 Time [ms]:	  4662	
+2020-12-28 15:23:30,659	Batch Processor	INFO	[DEU_Lohmar-29_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,659	Batch Processor	INFO	[DEU_Lohmar-30_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,659	Batch Processor	INFO	[DEU_Lohmar-31_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,659	Batch Processor	INFO	[DEU_Lohmar-32_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,659	Batch Processor	INFO	[DEU_Lohmar-33_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,660	Batch Processor	INFO	[DEU_Lohmar-34_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,660	Batch Processor	INFO	[DEU_Lohmar-35_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,660	Batch Processor	INFO	[DEU_Lohmar-36_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,660	Batch Processor	INFO	[DEU_Lohmar-37_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,660	Batch Processor	INFO	[DEU_Lohmar-38_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,660	Batch Processor	INFO	[DEU_Lohmar-39_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,661	Batch Processor	INFO	[DEU_Lohmar-40_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,661	Batch Processor	INFO	[DEU_Lohmar-41_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,661	Batch Processor	INFO	[DEU_Lohmar-42_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,661	Batch Processor	INFO	[DEU_Lohmar-43_1_T-1           ]	<SUCCESS>	 Time [ms]:	 12905	
+2020-12-28 15:23:30,661	Batch Processor	INFO	[DEU_Lohmar-44_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,662	Batch Processor	INFO	[DEU_Lohmar-45_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,662	Batch Processor	INFO	[DEU_Lohmar-46_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,662	Batch Processor	INFO	[DEU_Lohmar-47_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,662	Batch Processor	INFO	[DEU_Lohmar-48_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,662	Batch Processor	INFO	[DEU_Lohmar-49_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,663	Batch Processor	INFO	[DEU_Lohmar-50_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,663	Batch Processor	INFO	[DEU_Lohmar-51_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,663	Batch Processor	INFO	[DEU_Lohmar-52_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,663	Batch Processor	INFO	[DEU_Lohmar-53_1_T-1           ]	<SUCCESS>	 Time [ms]:	 14027	
+2020-12-28 15:23:30,664	Batch Processor	INFO	[DEU_Lohmar-54_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,664	Batch Processor	INFO	[DEU_Lohmar-55_1_T-1           ]	<SUCCESS>	 Time [ms]:	 16726	
+2020-12-28 15:23:30,664	Batch Processor	INFO	[DEU_Lohmar-56_1_T-1           ]	<SUCCESS>	 Time [ms]:	  3079	
+2020-12-28 15:23:30,664	Batch Processor	INFO	[DEU_Lohmar-57_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,664	Batch Processor	INFO	[DEU_Lohmar-58_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,665	Batch Processor	INFO	[DEU_Lohmar-59_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,665	Batch Processor	INFO	[DEU_Lohmar-60_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,665	Batch Processor	INFO	[DEU_Lohmar-61_1_T-1           ]	<SUCCESS>	 Time [ms]:	 12150	
+2020-12-28 15:23:30,665	Batch Processor	INFO	[DEU_Lohmar-62_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,666	Batch Processor	INFO	[DEU_Lohmar-63_1_T-1           ]	<SUCCESS>	 Time [ms]:	  5086	
+2020-12-28 15:23:30,666	Batch Processor	INFO	[DEU_Lohmar-64_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,666	Batch Processor	INFO	[DEU_Lohmar-65_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,666	Batch Processor	INFO	[DEU_Lohmar-66_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,666	Batch Processor	INFO	[DEU_Lohmar-67_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,667	Batch Processor	INFO	[DEU_Lohmar-68_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,667	Batch Processor	INFO	[DEU_Lohmar-69_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,667	Batch Processor	INFO	[DEU_Lohmar-70_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,667	Batch Processor	INFO	[DEU_Lohmar-8_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,667	Batch Processor	INFO	[DEU_Lohmar-9_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,668	Batch Processor	INFO	[DEU_Luckenwalde-1_1_T-1       ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,668	Batch Processor	INFO	[DEU_Meckenheim-1_4_T-1        ]	<SUCCESS>	 Time [ms]:	   487	
+2020-12-28 15:23:30,669	Batch Processor	INFO	[DEU_Meckenheim-3_1_T-1        ]	<SUCCESS>	 Time [ms]:	   518	
+2020-12-28 15:23:30,670	Batch Processor	INFO	[DEU_Meckenheim-5_1_T-1        ]	<SUCCESS>	 Time [ms]:	   375	
+2020-12-28 15:23:30,671	Batch Processor	INFO	[DEU_Meckenheim-8_3_T-1        ]	<SUCCESS>	 Time [ms]:	   815	
+2020-12-28 15:23:30,671	Batch Processor	INFO	[DEU_Meckenheim-8_5_T-1        ]	<SUCCESS>	 Time [ms]:	   861	
+2020-12-28 15:23:30,672	Batch Processor	INFO	[DEU_Moabit-1_2_T-1            ]	<SUCCESS>	 Time [ms]:	   458	
+2020-12-28 15:23:30,673	Batch Processor	INFO	[DEU_Moabit-4_1_T-1            ]	<SUCCESS>	 Time [ms]:	   374	
+2020-12-28 15:23:30,674	Batch Processor	INFO	[DEU_Moabit-5_2_T-1            ]	<SUCCESS>	 Time [ms]:	   347	
+2020-12-28 15:23:30,675	Batch Processor	INFO	[DEU_Moabit-6_2_T-1            ]	<SUCCESS>	 Time [ms]:	   680	
+2020-12-28 15:23:30,676	Batch Processor	INFO	[DEU_Moelln-10_3_T-1           ]	<SUCCESS>	 Time [ms]:	   627	
+2020-12-28 15:23:30,677	Batch Processor	INFO	[DEU_Moelln-11_1_T-1           ]	<SUCCESS>	 Time [ms]:	   500	
+2020-12-28 15:23:30,677	Batch Processor	INFO	[DEU_Moelln-12_1_T-1           ]	<SUCCESS>	 Time [ms]:	   601	
+2020-12-28 15:23:30,678	Batch Processor	INFO	[DEU_Moelln-2_1_T-1            ]	<SUCCESS>	 Time [ms]:	   380	
+2020-12-28 15:23:30,679	Batch Processor	INFO	[DEU_Moelln-4_3_T-1            ]	<SUCCESS>	 Time [ms]:	   827	
+2020-12-28 15:23:30,680	Batch Processor	INFO	[DEU_Moelln-6_1_T-1            ]	<SUCCESS>	 Time [ms]:	   396	
+2020-12-28 15:23:30,681	Batch Processor	INFO	[DEU_Moelln-7_1_T-1            ]	<SUCCESS>	 Time [ms]:	   408	
+2020-12-28 15:23:30,681	Batch Processor	INFO	[DEU_Moelln-9_1_T-1            ]	<SUCCESS>	 Time [ms]:	   587	
+2020-12-28 15:23:30,682	Batch Processor	INFO	[DEU_Muehlhausen-11_1_T-1      ]	<SUCCESS>	 Time [ms]:	   502	
+2020-12-28 15:23:30,683	Batch Processor	INFO	[DEU_Muehlhausen-14_3_T-1      ]	<SUCCESS>	 Time [ms]:	   545	
+2020-12-28 15:23:30,684	Batch Processor	INFO	[DEU_Muehlhausen-1_2_T-1       ]	<SUCCESS>	 Time [ms]:	   685	
+2020-12-28 15:23:30,685	Batch Processor	INFO	[DEU_Muehlhausen-1_3_T-1       ]	<SUCCESS>	 Time [ms]:	   495	
+2020-12-28 15:23:30,685	Batch Processor	INFO	[DEU_Muehlhausen-2_1_T-1       ]	<SUCCESS>	 Time [ms]:	  2851	
+2020-12-28 15:23:30,686	Batch Processor	INFO	[DEU_Muehlhausen-4_1_T-1       ]	<SUCCESS>	 Time [ms]:	   874	
+2020-12-28 15:23:30,687	Batch Processor	INFO	[DEU_Muehlhausen-5_1_T-1       ]	<SUCCESS>	 Time [ms]:	   589	
+2020-12-28 15:23:30,688	Batch Processor	INFO	[DEU_Muehlhausen-6_1_T-1       ]	<SUCCESS>	 Time [ms]:	   435	
+2020-12-28 15:23:30,689	Batch Processor	INFO	[DEU_Muehlhausen-7_2_T-1       ]	<SUCCESS>	 Time [ms]:	   573	
+2020-12-28 15:23:30,689	Batch Processor	INFO	[DEU_Reutlingen-1_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,689	Batch Processor	INFO	[DEU_Reutlingen-2_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,689	Batch Processor	INFO	[DEU_Reutlingen-3_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,689	Batch Processor	INFO	[DEU_Reutlingen-4_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,690	Batch Processor	INFO	[DEU_Reutlingen-5_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,690	Batch Processor	INFO	[DEU_Reutlingen-6_1_T-1        ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,690	Batch Processor	INFO	[DEU_Rheinbach-1_4_T-1         ]	<SUCCESS>	 Time [ms]:	  4981	
+2020-12-28 15:23:30,691	Batch Processor	INFO	[DEU_Rheinbach-5_3_T-1         ]	<SUCCESS>	 Time [ms]:	  4799	
+2020-12-28 15:23:30,692	Batch Processor	INFO	[DEU_Speyer-2_1_T-1            ]	<FAILURE>	 Time [ms]:	  5133
+2020-12-28 15:23:30,692	Batch Processor	INFO	[DEU_Speyer-2_4_T-1            ]	<SUCCESS>	 Time [ms]:	  5080	
+2020-12-28 15:23:30,693	Batch Processor	INFO	[DEU_Speyer-5_2_T-1            ]	<SUCCESS>	 Time [ms]:	  5111	
+2020-12-28 15:23:30,694	Batch Processor	INFO	[ESP_Almansa-1_1_T-1           ]	<SUCCESS>	 Time [ms]:	  4997	
+2020-12-28 15:23:30,695	Batch Processor	INFO	[ESP_Almansa-2_1_T-1           ]	<SUCCESS>	 Time [ms]:	  1814	
+2020-12-28 15:23:30,695	Batch Processor	INFO	[ESP_Almansa-6_1_T-1           ]	<SUCCESS>	 Time [ms]:	  1006	
+2020-12-28 15:23:30,696	Batch Processor	INFO	[ESP_Berga-10_1_T-1            ]	<SUCCESS>	 Time [ms]:	   472	
+2020-12-28 15:23:30,697	Batch Processor	INFO	[ESP_Berga-4_4_T-1             ]	<SUCCESS>	 Time [ms]:	   457	
+2020-12-28 15:23:30,698	Batch Processor	INFO	[ESP_Berga-6_1_T-1             ]	<SUCCESS>	 Time [ms]:	  1175	
+2020-12-28 15:23:30,698	Batch Processor	INFO	[ESP_Berga-9_1_T-1             ]	<SUCCESS>	 Time [ms]:	   508	
+2020-12-28 15:23:30,699	Batch Processor	INFO	[ESP_Cambre-1_1_T-1            ]	<SUCCESS>	 Time [ms]:	   364	
+2020-12-28 15:23:30,700	Batch Processor	INFO	[ESP_Cambre-2_1_T-1            ]	<SUCCESS>	 Time [ms]:	   484	
+2020-12-28 15:23:30,701	Batch Processor	INFO	[ESP_Cambre-3_1_T-1            ]	<SUCCESS>	 Time [ms]:	   432	
+2020-12-28 15:23:30,702	Batch Processor	INFO	[ESP_Ceuta-10_1_T-1            ]	<SUCCESS>	 Time [ms]:	   668	
+2020-12-28 15:23:30,702	Batch Processor	INFO	[ESP_Ceuta-11_1_T-1            ]	<FAILURE>	 Time [ms]:	   743
+2020-12-28 15:23:30,703	Batch Processor	INFO	[ESP_Ceuta-15_2_T-1            ]	<SUCCESS>	 Time [ms]:	   595	
+2020-12-28 15:23:30,704	Batch Processor	INFO	[ESP_Ceuta-1_2_T-1             ]	<SUCCESS>	 Time [ms]:	   572	
+2020-12-28 15:23:30,705	Batch Processor	INFO	[ESP_Ceuta-2_1_T-1             ]	<SUCCESS>	 Time [ms]:	  1115	
+2020-12-28 15:23:30,706	Batch Processor	INFO	[ESP_Ceuta-3_2_T-1             ]	<SUCCESS>	 Time [ms]:	   657	
+2020-12-28 15:23:30,706	Batch Processor	INFO	[ESP_Ceuta-4_1_T-1             ]	<SUCCESS>	 Time [ms]:	   659	
+2020-12-28 15:23:30,707	Batch Processor	INFO	[ESP_Ceuta-5_1_T-1             ]	<FAILURE>	 Time [ms]:	   603
+2020-12-28 15:23:30,708	Batch Processor	INFO	[ESP_Ceuta-7_1_T-1             ]	<SUCCESS>	 Time [ms]:	   257	
+2020-12-28 15:23:30,709	Batch Processor	INFO	[ESP_Ceuta-8_1_T-1             ]	<SUCCESS>	 Time [ms]:	   646	
+2020-12-28 15:23:30,709	Batch Processor	INFO	[ESP_Inca-3_2_T-1              ]	<FAILURE>	 Time [ms]:	   462
+2020-12-28 15:23:30,710	Batch Processor	INFO	[ESP_Inca-7_1_T-1              ]	<SUCCESS>	 Time [ms]:	   300	
+2020-12-28 15:23:30,710	Batch Processor	INFO	[ESP_Monzon-2_1_T-1            ]	<SUCCESS>	 Time [ms]:	   532	
+2020-12-28 15:23:30,711	Batch Processor	INFO	[ESP_Monzon-3_1_T-1            ]	<SUCCESS>	 Time [ms]:	   940	
+2020-12-28 15:23:30,712	Batch Processor	INFO	[ESP_Monzon-5_1_T-1            ]	<SUCCESS>	 Time [ms]:	   573	
+2020-12-28 15:23:30,713	Batch Processor	INFO	[ESP_Monzon-6_1_T-1            ]	<SUCCESS>	 Time [ms]:	  1034	
+2020-12-28 15:23:30,714	Batch Processor	INFO	[ESP_Monzon-7_2_T-1            ]	<SUCCESS>	 Time [ms]:	   690	
+2020-12-28 15:23:30,715	Batch Processor	INFO	[ESP_Monzon-7_3_T-1            ]	<SUCCESS>	 Time [ms]:	   759	
+2020-12-28 15:23:30,715	Batch Processor	INFO	[ESP_Monzon-9_1_T-1            ]	<SUCCESS>	 Time [ms]:	  1668	
+2020-12-28 15:23:30,716	Batch Processor	INFO	[ESP_PriegodeCordoba-2_3_T-1   ]	<SUCCESS>	 Time [ms]:	   693	
+2020-12-28 15:23:30,717	Batch Processor	INFO	[ESP_PriegodeCordoba-3_1_T-1   ]	<SUCCESS>	 Time [ms]:	   827	
+2020-12-28 15:23:30,718	Batch Processor	INFO	[ESP_PriegodeCordoba-6_1_T-1   ]	<SUCCESS>	 Time [ms]:	  1069	
+2020-12-28 15:23:30,719	Batch Processor	INFO	[ESP_Requena-6_2_T-1           ]	<SUCCESS>	 Time [ms]:	   846	
+2020-12-28 15:23:30,719	Batch Processor	INFO	[ESP_SantBoideLlobregat-14_1_T-1]	<SUCCESS>	 Time [ms]:	   462	
+2020-12-28 15:23:30,720	Batch Processor	INFO	[ESP_SantBoideLlobregat-14_4_T-1]	<SUCCESS>	 Time [ms]:	   411	
+2020-12-28 15:23:30,721	Batch Processor	INFO	[ESP_SantBoideLlobregat-18_2_T-1]	<SUCCESS>	 Time [ms]:	   221	
+2020-12-28 15:23:30,722	Batch Processor	INFO	[ESP_SantBoideLlobregat-19_1_T-1]	<SUCCESS>	 Time [ms]:	   334	
+2020-12-28 15:23:30,722	Batch Processor	INFO	[ESP_SantBoideLlobregat-22_3_T-1]	<FAILURE>	 Time [ms]:	   210
+2020-12-28 15:23:30,723	Batch Processor	INFO	[ESP_SantBoideLlobregat-23_2_T-1]	<SUCCESS>	 Time [ms]:	   604	
+2020-12-28 15:23:30,724	Batch Processor	INFO	[ESP_SantBoideLlobregat-24_1_T-1]	<SUCCESS>	 Time [ms]:	   301	
+2020-12-28 15:23:30,724	Batch Processor	INFO	[ESP_SantBoideLlobregat-3_1_T-1]	<SUCCESS>	 Time [ms]:	   552	
+2020-12-28 15:23:30,725	Batch Processor	INFO	[ESP_SantBoideLlobregat-4_1_T-1]	<FAILURE>	 Time [ms]:	   397
+2020-12-28 15:23:30,726	Batch Processor	INFO	[ESP_SantBoideLlobregat-6_2_T-1]	<SUCCESS>	 Time [ms]:	  1161	
+2020-12-28 15:23:30,726	Batch Processor	INFO	[ESP_SantBoideLlobregat-8_1_T-1]	<SUCCESS>	 Time [ms]:	   871	
+2020-12-28 15:23:30,727	Batch Processor	INFO	[ESP_SantBoideLlobregat-8_5_T-1]	<SUCCESS>	 Time [ms]:	   794	
+2020-12-28 15:23:30,728	Batch Processor	INFO	[ESP_Toledo-10_1_T-1           ]	<SUCCESS>	 Time [ms]:	   828	
+2020-12-28 15:23:30,729	Batch Processor	INFO	[ESP_Toledo-10_2_T-1           ]	<SUCCESS>	 Time [ms]:	   823	
+2020-12-28 15:23:30,730	Batch Processor	INFO	[ESP_Toledo-11_1_T-1           ]	<SUCCESS>	 Time [ms]:	   351	
+2020-12-28 15:23:30,730	Batch Processor	INFO	[ESP_Toledo-11_5_T-1           ]	<SUCCESS>	 Time [ms]:	   429	
+2020-12-28 15:23:30,731	Batch Processor	INFO	[ESP_Toledo-22_1_T-1           ]	<SUCCESS>	 Time [ms]:	   585	
+2020-12-28 15:23:30,732	Batch Processor	INFO	[ESP_Toledo-23_1_T-1           ]	<SUCCESS>	 Time [ms]:	   237	
+2020-12-28 15:23:30,733	Batch Processor	INFO	[ESP_Toledo-5_1_T-1            ]	<SUCCESS>	 Time [ms]:	   432	
+2020-12-28 15:23:30,734	Batch Processor	INFO	[ESP_Toledo-6_2_T-1            ]	<SUCCESS>	 Time [ms]:	   819	
+2020-12-28 15:23:30,734	Batch Processor	INFO	[ESP_Toledo-8_1_T-1            ]	<FAILURE>	 Time [ms]:	   996
+2020-12-28 15:23:30,735	Batch Processor	INFO	[ESP_Toledo-9_1_T-1            ]	<SUCCESS>	 Time [ms]:	   726	
+2020-12-28 15:23:30,735	Batch Processor	INFO	[FRA_Anglet-1_2_T-1            ]	<SUCCESS>	 Time [ms]:	   372	
+2020-12-28 15:23:30,736	Batch Processor	INFO	[FRA_Anglet-2_1_T-1            ]	<FAILURE>	 Time [ms]:	   716
+2020-12-28 15:23:30,737	Batch Processor	INFO	[FRA_Anglet-3_2_T-1            ]	<SUCCESS>	 Time [ms]:	  1216	
+2020-12-28 15:23:30,738	Batch Processor	INFO	[FRA_Miramas-1_1_T-1           ]	<SUCCESS>	 Time [ms]:	   300	
+2020-12-28 15:23:30,739	Batch Processor	INFO	[FRA_Miramas-2_1_T-1           ]	<SUCCESS>	 Time [ms]:	   716	
+2020-12-28 15:23:30,740	Batch Processor	INFO	[FRA_Miramas-3_1_T-1           ]	<SUCCESS>	 Time [ms]:	   530	
+2020-12-28 15:23:30,741	Batch Processor	INFO	[FRA_Miramas-5_1_T-1           ]	<SUCCESS>	 Time [ms]:	   691	
+2020-12-28 15:23:30,742	Batch Processor	INFO	[FRA_Miramas-9_1_T-1           ]	<SUCCESS>	 Time [ms]:	   640	
+2020-12-28 15:23:30,743	Batch Processor	INFO	[FRA_MoissyCramayel-1_1_T-1    ]	<SUCCESS>	 Time [ms]:	  1301	
+2020-12-28 15:23:30,744	Batch Processor	INFO	[FRA_MoissyCramayel-2_1_T-1    ]	<SUCCESS>	 Time [ms]:	   803	
+2020-12-28 15:23:30,744	Batch Processor	INFO	[FRA_MoissyCramayel-4_1_T-1    ]	<SUCCESS>	 Time [ms]:	   736	
+2020-12-28 15:23:30,745	Batch Processor	INFO	[FRA_Sete-1_1_T-1              ]	<SUCCESS>	 Time [ms]:	  1045	
+2020-12-28 15:23:30,745	Batch Processor	INFO	[GRC_Perama-1_1_T-1            ]	<FAILURE>	 Time [ms]:	   816
+2020-12-28 15:23:30,746	Batch Processor	INFO	[GRC_Perama-2_1_T-1            ]	<SUCCESS>	 Time [ms]:	   460	
+2020-12-28 15:23:30,747	Batch Processor	INFO	[GRC_Perama-3_2_T-1            ]	<SUCCESS>	 Time [ms]:	   474	
+2020-12-28 15:23:30,748	Batch Processor	INFO	[GRC_Perama-4_3_T-1            ]	<SUCCESS>	 Time [ms]:	   932	
+2020-12-28 15:23:30,749	Batch Processor	INFO	[GRC_Perama-7_1_T-1            ]	<SUCCESS>	 Time [ms]:	   906	
+2020-12-28 15:23:30,750	Batch Processor	INFO	[HRV_Pula-10_1_T-1             ]	<SUCCESS>	 Time [ms]:	   796	
+2020-12-28 15:23:30,750	Batch Processor	INFO	[HRV_Pula-12_3_T-1             ]	<SUCCESS>	 Time [ms]:	   519	
+2020-12-28 15:23:30,751	Batch Processor	INFO	[HRV_Pula-13_2_T-1             ]	<SUCCESS>	 Time [ms]:	   837	
+2020-12-28 15:23:30,752	Batch Processor	INFO	[HRV_Pula-15_1_T-1             ]	<SUCCESS>	 Time [ms]:	   683	
+2020-12-28 15:23:30,753	Batch Processor	INFO	[HRV_Pula-18_1_T-1             ]	<SUCCESS>	 Time [ms]:	   713	
+2020-12-28 15:23:30,754	Batch Processor	INFO	[HRV_Pula-19_2_T-1             ]	<SUCCESS>	 Time [ms]:	   601	
+2020-12-28 15:23:30,754	Batch Processor	INFO	[HRV_Pula-21_1_T-1             ]	<SUCCESS>	 Time [ms]:	   799	
+2020-12-28 15:23:30,755	Batch Processor	INFO	[HRV_Pula-22_1_T-1             ]	<SUCCESS>	 Time [ms]:	  1073	
+2020-12-28 15:23:30,756	Batch Processor	INFO	[HRV_Pula-23_1_T-1             ]	<SUCCESS>	 Time [ms]:	   595	
+2020-12-28 15:23:30,757	Batch Processor	INFO	[HRV_Pula-24_1_T-1             ]	<SUCCESS>	 Time [ms]:	   572	
+2020-12-28 15:23:30,758	Batch Processor	INFO	[HRV_Pula-25_1_T-1             ]	<SUCCESS>	 Time [ms]:	   608	
+2020-12-28 15:23:30,759	Batch Processor	INFO	[HRV_Pula-27_2_T-1             ]	<SUCCESS>	 Time [ms]:	   849	
+2020-12-28 15:23:30,759	Batch Processor	INFO	[HRV_Pula-29_3_T-1             ]	<SUCCESS>	 Time [ms]:	   758	
+2020-12-28 15:23:30,760	Batch Processor	INFO	[HRV_Pula-31_1_T-1             ]	<SUCCESS>	 Time [ms]:	   680	
+2020-12-28 15:23:30,761	Batch Processor	INFO	[HRV_Pula-32_2_T-1             ]	<SUCCESS>	 Time [ms]:	  1145	
+2020-12-28 15:23:30,762	Batch Processor	INFO	[HRV_Pula-33_2_T-1             ]	<SUCCESS>	 Time [ms]:	   872	
+2020-12-28 15:23:30,762	Batch Processor	INFO	[HRV_Pula-5_2_T-1              ]	<SUCCESS>	 Time [ms]:	  1828	
+2020-12-28 15:23:30,763	Batch Processor	INFO	[HRV_Pula-5_3_T-1              ]	<SUCCESS>	 Time [ms]:	   790	
+2020-12-28 15:23:30,764	Batch Processor	INFO	[HRV_Pula-6_2_T-1              ]	<SUCCESS>	 Time [ms]:	   600	
+2020-12-28 15:23:30,765	Batch Processor	INFO	[HRV_Pula-7_2_T-1              ]	<SUCCESS>	 Time [ms]:	  1401	
+2020-12-28 15:23:30,766	Batch Processor	INFO	[HRV_Pula-8_3_T-1              ]	<SUCCESS>	 Time [ms]:	   828	
+2020-12-28 15:23:30,767	Batch Processor	INFO	[HRV_Pula-9_2_T-1              ]	<SUCCESS>	 Time [ms]:	   424	
+2020-12-28 15:23:30,767	Batch Processor	INFO	[HRV_Pula-9_4_T-1              ]	<SUCCESS>	 Time [ms]:	   501	
+2020-12-28 15:23:30,768	Batch Processor	INFO	[ITA_CarpiCentro-1_3_T-1       ]	<SUCCESS>	 Time [ms]:	   711	
+2020-12-28 15:23:30,769	Batch Processor	INFO	[ITA_CarpiCentro-2_4_T-1       ]	<SUCCESS>	 Time [ms]:	  1344	
+2020-12-28 15:23:30,770	Batch Processor	INFO	[ITA_CarpiCentro-3_1_T-1       ]	<SUCCESS>	 Time [ms]:	  1009	
+2020-12-28 15:23:30,771	Batch Processor	INFO	[ITA_CarpiCentro-5_1_T-1       ]	<SUCCESS>	 Time [ms]:	   586	
+2020-12-28 15:23:30,771	Batch Processor	INFO	[ITA_CarpiCentro-6_2_T-1       ]	<SUCCESS>	 Time [ms]:	   929	
+2020-12-28 15:23:30,772	Batch Processor	INFO	[ITA_CarpiCentro-7_1_T-1       ]	<SUCCESS>	 Time [ms]:	  1307	
+2020-12-28 15:23:30,773	Batch Processor	INFO	[ITA_CarpiCentro-8_3_T-1       ]	<SUCCESS>	 Time [ms]:	   405	
+2020-12-28 15:23:30,773	Batch Processor	INFO	[ITA_Empoli-10_1_T-1           ]	<FAILURE>	 Time [ms]:	   822
+2020-12-28 15:23:30,774	Batch Processor	INFO	[ITA_Empoli-18_1_T-1           ]	<SUCCESS>	 Time [ms]:	   546	
+2020-12-28 15:23:30,775	Batch Processor	INFO	[ITA_Empoli-2_4_T-1            ]	<SUCCESS>	 Time [ms]:	   486	
+2020-12-28 15:23:30,776	Batch Processor	INFO	[ITA_Empoli-2_5_T-1            ]	<SUCCESS>	 Time [ms]:	   523	
+2020-12-28 15:23:30,777	Batch Processor	INFO	[ITA_Empoli-3_1_T-1            ]	<SUCCESS>	 Time [ms]:	   299	
+2020-12-28 15:23:30,777	Batch Processor	INFO	[ITA_Empoli-4_2_T-1            ]	<SUCCESS>	 Time [ms]:	   870	
+2020-12-28 15:23:30,778	Batch Processor	INFO	[ITA_Empoli-7_3_T-1            ]	<SUCCESS>	 Time [ms]:	   438	
+2020-12-28 15:23:30,779	Batch Processor	INFO	[ITA_Empoli-8_2_T-1            ]	<SUCCESS>	 Time [ms]:	   564	
+2020-12-28 15:23:30,780	Batch Processor	INFO	[ITA_Foggia-10_1_T-1           ]	<SUCCESS>	 Time [ms]:	   576	
+2020-12-28 15:23:30,781	Batch Processor	INFO	[ITA_Foggia-11_1_T-1           ]	<SUCCESS>	 Time [ms]:	   568	
+2020-12-28 15:23:30,781	Batch Processor	INFO	[ITA_Foggia-12_1_T-1           ]	<FAILURE>	 Time [ms]:	   404
+2020-12-28 15:23:30,782	Batch Processor	INFO	[ITA_Foggia-13_1_T-1           ]	<SUCCESS>	 Time [ms]:	  1237	
+2020-12-28 15:23:30,782	Batch Processor	INFO	[ITA_Foggia-19_1_T-1           ]	<FAILURE>	 Time [ms]:	   450
+2020-12-28 15:23:30,783	Batch Processor	INFO	[ITA_Foggia-1_1_T-1            ]	<SUCCESS>	 Time [ms]:	   499	
+2020-12-28 15:23:30,784	Batch Processor	INFO	[ITA_Foggia-3_1_T-1            ]	<SUCCESS>	 Time [ms]:	   666	
+2020-12-28 15:23:30,785	Batch Processor	INFO	[ITA_Foggia-4_2_T-1            ]	<SUCCESS>	 Time [ms]:	   546	
+2020-12-28 15:23:30,785	Batch Processor	INFO	[ITA_Foggia-5_1_T-1            ]	<SUCCESS>	 Time [ms]:	  1119	
+2020-12-28 15:23:30,786	Batch Processor	INFO	[ITA_Foggia-6_1_T-1            ]	<SUCCESS>	 Time [ms]:	   748	
+2020-12-28 15:23:30,787	Batch Processor	INFO	[ITA_Foggia-7_2_T-1            ]	<SUCCESS>	 Time [ms]:	  1816	
+2020-12-28 15:23:30,788	Batch Processor	INFO	[ITA_SanGiorgioaCremano-2_1_T-1]	<SUCCESS>	 Time [ms]:	   455	
+2020-12-28 15:23:30,789	Batch Processor	INFO	[ITA_SanGiorgioaCremano-3_1_T-1]	<SUCCESS>	 Time [ms]:	   651	
+2020-12-28 15:23:30,790	Batch Processor	INFO	[ITA_Scicli-2_1_T-1            ]	<SUCCESS>	 Time [ms]:	  1029	
+2020-12-28 15:23:30,790	Batch Processor	INFO	[ITA_Segrate-1_2_T-1           ]	<SUCCESS>	 Time [ms]:	   386	
+2020-12-28 15:23:30,791	Batch Processor	INFO	[ITA_Segrate-2_3_T-1           ]	<SUCCESS>	 Time [ms]:	   314	
+2020-12-28 15:23:30,792	Batch Processor	INFO	[ITA_Siderno-10_1_T-1          ]	<SUCCESS>	 Time [ms]:	   486	
+2020-12-28 15:23:30,793	Batch Processor	INFO	[ITA_Siderno-2_4_T-1           ]	<SUCCESS>	 Time [ms]:	   599	
+2020-12-28 15:23:30,794	Batch Processor	INFO	[ITA_Siderno-3_2_T-1           ]	<SUCCESS>	 Time [ms]:	   426	
+2020-12-28 15:23:30,794	Batch Processor	INFO	[ITA_Siderno-4_3_T-1           ]	<SUCCESS>	 Time [ms]:	   554	
+2020-12-28 15:23:30,795	Batch Processor	INFO	[ITA_Siderno-4_4_T-1           ]	<SUCCESS>	 Time [ms]:	   498	
+2020-12-28 15:23:30,796	Batch Processor	INFO	[ITA_Siderno-5_4_T-1           ]	<SUCCESS>	 Time [ms]:	   608	
+2020-12-28 15:23:30,797	Batch Processor	INFO	[ITA_Siderno-8_4_T-1           ]	<SUCCESS>	 Time [ms]:	   815	
+2020-12-28 15:23:30,798	Batch Processor	INFO	[ITA_Siderno-8_5_T-1           ]	<SUCCESS>	 Time [ms]:	   851	
+2020-12-28 15:23:30,798	Batch Processor	INFO	[PRI_Barceloneta-2_1_T-1       ]	<SUCCESS>	 Time [ms]:	  1054	
+2020-12-28 15:23:30,799	Batch Processor	INFO	[PRI_Barceloneta-3_1_T-1       ]	<SUCCESS>	 Time [ms]:	   873	
+2020-12-28 15:23:30,800	Batch Processor	INFO	[PRI_Barceloneta-4_3_T-1       ]	<SUCCESS>	 Time [ms]:	   689	
+2020-12-28 15:23:30,801	Batch Processor	INFO	[PRI_Barceloneta-4_5_T-1       ]	<SUCCESS>	 Time [ms]:	   757	
+2020-12-28 15:23:30,802	Batch Processor	INFO	[RUS_Bicycle-10_1_T-1          ]	<SUCCESS>	 Time [ms]:	   598	
+2020-12-28 15:23:30,803	Batch Processor	INFO	[RUS_Bicycle-11_1_T-1          ]	<SUCCESS>	 Time [ms]:	   586	
+2020-12-28 15:23:30,803	Batch Processor	INFO	[RUS_Bicycle-12_1_T-1          ]	<SUCCESS>	 Time [ms]:	   580	
+2020-12-28 15:23:30,804	Batch Processor	INFO	[RUS_Bicycle-13_1_T-1          ]	<SUCCESS>	 Time [ms]:	   178	
+2020-12-28 15:23:30,805	Batch Processor	INFO	[RUS_Bicycle-14_1_T-1          ]	<SUCCESS>	 Time [ms]:	   686	
+2020-12-28 15:23:30,805	Batch Processor	INFO	[RUS_Bicycle-1_1_T-1           ]	<SUCCESS>	 Time [ms]:	   170	
+2020-12-28 15:23:30,806	Batch Processor	INFO	[RUS_Bicycle-2_1_T-1           ]	<SUCCESS>	 Time [ms]:	  6507	
+2020-12-28 15:23:30,806	Batch Processor	INFO	[RUS_Bicycle-3_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,807	Batch Processor	INFO	[RUS_Bicycle-4_2_T-1           ]	<SUCCESS>	 Time [ms]:	   596	
+2020-12-28 15:23:30,808	Batch Processor	INFO	[RUS_Bicycle-5_1_T-1           ]	<SUCCESS>	 Time [ms]:	  1426	
+2020-12-28 15:23:30,809	Batch Processor	INFO	[RUS_Bicycle-6_1_T-1           ]	<SUCCESS>	 Time [ms]:	   247	
+2020-12-28 15:23:30,809	Batch Processor	INFO	[RUS_Bicycle-7_1_T-1           ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,810	Batch Processor	INFO	[RUS_Bicycle-8_1_T-1           ]	<SUCCESS>	 Time [ms]:	   173	
+2020-12-28 15:23:30,811	Batch Processor	INFO	[RUS_Bicycle-9_1_T-1           ]	<SUCCESS>	 Time [ms]:	   124	
+2020-12-28 15:23:30,811	Batch Processor	INFO	[USA_Lanker-1_2_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,812	Batch Processor	INFO	[USA_Peach-1_1_T-1             ]	<SUCCESS>	 Time [ms]:	   357	
+2020-12-28 15:23:30,813	Batch Processor	INFO	[USA_Peach-2_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,813	Batch Processor	INFO	[USA_Peach-3_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,813	Batch Processor	INFO	[USA_US101-10_4_T-1            ]	<SUCCESS>	 Time [ms]:	  6469	
+2020-12-28 15:23:30,813	Batch Processor	INFO	[USA_US101-11_4_T-1            ]	<SUCCESS>	 Time [ms]:	  7929	
+2020-12-28 15:23:30,814	Batch Processor	INFO	[USA_US101-12_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,814	Batch Processor	INFO	[USA_US101-13_4_T-1            ]	<SUCCESS>	 Time [ms]:	 12507	
+2020-12-28 15:23:30,814	Batch Processor	INFO	[USA_US101-14_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,815	Batch Processor	INFO	[USA_US101-15_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,815	Batch Processor	INFO	[USA_US101-16_2_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,815	Batch Processor	INFO	[USA_US101-17_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,815	Batch Processor	INFO	[USA_US101-18_2_T-1            ]	<SUCCESS>	 Time [ms]:	  3832	
+2020-12-28 15:23:30,816	Batch Processor	INFO	[USA_US101-20_2_T-1            ]	<SUCCESS>	 Time [ms]:	 24512	
+2020-12-28 15:23:30,816	Batch Processor	INFO	[USA_US101-21_2_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,816	Batch Processor	INFO	[USA_US101-22_4_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,816	Batch Processor	INFO	[USA_US101-23_2_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,817	Batch Processor	INFO	[USA_US101-24_2_T-1            ]	<SUCCESS>	 Time [ms]:	  8808	
+2020-12-28 15:23:30,817	Batch Processor	INFO	[USA_US101-25_2_T-1            ]	<SUCCESS>	 Time [ms]:	  7156	
+2020-12-28 15:23:30,817	Batch Processor	INFO	[USA_US101-26_2_T-1            ]	<SUCCESS>	 Time [ms]:	 13157	
+2020-12-28 15:23:30,817	Batch Processor	INFO	[USA_US101-27_1_T-1            ]	<SUCCESS>	 Time [ms]:	 18854	
+2020-12-28 15:23:30,818	Batch Processor	INFO	[USA_US101-28_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,818	Batch Processor	INFO	[USA_US101-29_1_T-1            ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,818	Batch Processor	INFO	[USA_US101-3_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,818	Batch Processor	INFO	[USA_US101-3_2_S-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,818	Batch Processor	INFO	[USA_US101-4_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,819	Batch Processor	INFO	[USA_US101-5_1_T-1             ]	<FAILURE>	 Time [ms]:	   253
+2020-12-28 15:23:30,819	Batch Processor	INFO	[USA_US101-6_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,819	Batch Processor	INFO	[USA_US101-8_4_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,819	Batch Processor	INFO	[USA_US101-9_1_T-1             ]	<TIMEOUT>	 Time [ms]:	 30000
+2020-12-28 15:23:30,820	Batch Processor	INFO	==============================        Solution found        ==============================
+	- ARG_Carcarana-13_1_T-1
+	- ARG_Carcarana-5_2_T-1
+	- ARG_Carcarana-7_1_T-1
+	- ARG_Carcarana-2_3_T-1
+	- ARG_Carcarana-11_1_T-1
+	- BEL_Aarschot-11_1_T-1
+	- BEL_Aarschot-3_1_T-1
+	- BEL_Aarschot-1_2_T-1
+	- BEL_Aarschot-5_1_T-1
+	- ARG_Carcarana-3_3_T-1
+	- ARG_Carcarana-9_2_T-1
+	- BEL_Nivelles-16_2_T-1
+	- BEL_Beringen-8_1_T-1
+	- BEL_Nivelles-18_2_T-1
+	- BEL_Beringen-1_1_T-1
+	- BEL_Nivelles-10_1_T-1
+	- BEL_Nivelles-1_1_T-1
+	- BEL_Nivelles-19_1_T-1
+	- BEL_Nivelles-3_1_T-1
+	- BEL_Nivelles-4_2_T-1
+	- BEL_Nivelles-20_1_T-1
+	- BEL_Nivelles-9_2_T-1
+	- BEL_Putte-10_2_T-1
+	- BEL_Putte-11_2_T-1
+	- BEL_Putte-3_1_T-1
+	- BEL_Putte-2_1_T-1
+	- BEL_Putte-4_2_T-1
+	- BEL_Putte-6_1_T-1
+	- BEL_Wervik-1_4_T-1
+	- BEL_Wervik-4_1_T-1
+	- BEL_Wervik-2_2_T-1
+	- BEL_Zaventem-3_1_T-1
+	- BEL_Zaventem-1_2_T-1
+	- BEL_Zaventem-4_1_T-1
+	- BEL_Zaventem-5_3_T-1
+	- BEL_Zwevegem-2_3_T-1
+	- BEL_Zwevegem-3_1_T-1
+	- BEL_Zwevegem-5_2_T-1
+	- BEL_Zwevegem-7_2_T-1
+	- BEL_Zwevegem-8_1_T-1
+	- BEL_Zwevegem-8_4_T-1
+	- DEU_Backnang-4_1_T-1
+	- DEU_Backnang-9_1_T-1
+	- DEU_Backnang-5_1_T-1
+	- DEU_Backnang-6_1_T-1
+	- DEU_BadEssen-4_1_T-1
+	- DEU_BadWaldsee-1_1_T-1
+	- DEU_Backnang-1_2_T-1
+	- DEU_BadWaldsee-4_5_T-1
+	- DEU_BadWaldsee-4_2_T-1
+	- DEU_Bilderstoeckchen-2_3_T-1
+	- DEU_BadEssen-3_1_T-1
+	- DEU_Bilderstoeckchen-4_1_T-1
+	- DEU_Guetersloh-11_3_T-1
+	- DEU_Guetersloh-10_5_T-1
+	- DEU_Guetersloh-14_2_T-1
+	- DEU_Guetersloh-12_1_T-1
+	- DEU_Guetersloh-16_2_T-1
+	- DEU_Guetersloh-16_5_T-1
+	- DEU_Guetersloh-15_2_T-1
+	- DEU_Guetersloh-18_2_T-1
+	- DEU_Guetersloh-17_2_T-1
+	- DEU_Guetersloh-20_1_T-1
+	- DEU_Guetersloh-20_3_T-1
+	- DEU_Guetersloh-19_1_T-1
+	- DEU_Guetersloh-21_1_T-1
+	- DEU_Guetersloh-25_2_T-1
+	- DEU_Guetersloh-24_1_T-1
+	- DEU_Guetersloh-24_2_T-1
+	- DEU_Guetersloh-24_3_T-1
+	- DEU_Guetersloh-31_4_T-1
+	- DEU_Guetersloh-27_1_T-1
+	- DEU_Guetersloh-25_4_T-1
+	- DEU_Guetersloh-30_1_T-1
+	- DEU_Guetersloh-32_3_T-1
+	- DEU_Guetersloh-34_2_T-1
+	- DEU_Guetersloh-39_5_T-1
+	- DEU_Guetersloh-36_1_T-1
+	- DEU_Guetersloh-39_3_T-1
+	- DEU_Guetersloh-33_1_T-1
+	- DEU_Guetersloh-40_4_T-1
+	- DEU_Guetersloh-42_1_T-1
+	- DEU_Guetersloh-40_5_T-1
+	- DEU_Guetersloh-41_1_T-1
+	- DEU_Guetersloh-4_5_T-1
+	- DEU_Guetersloh-50_1_T-1
+	- DEU_Guetersloh-65_2_T-1
+	- DEU_Guetersloh-55_3_T-1
+	- DEU_Guetersloh-55_1_T-1
+	- DEU_Guetersloh-54_1_T-1
+	- DEU_Guetersloh-6_3_T-1
+	- DEU_Hennigsdorf-11_1_T-1
+	- DEU_Guetersloh-8_1_T-1
+	- DEU_Hennigsdorf-12_1_T-1
+	- DEU_Hennigsdorf-18_2_T-1
+	- DEU_Guetersloh-7_2_T-1
+	- DEU_Hennigsdorf-13_2_T-1
+	- DEU_Hennigsdorf-15_3_T-1
+	- DEU_Hennigsdorf-5_1_T-1
+	- DEU_Hennigsdorf-14_3_T-1
+	- DEU_Hennigsdorf-3_2_T-1
+	- DEU_Hennigsdorf-3_5_T-1
+	- DEU_Hennigsdorf-7_3_T-1
+	- DEU_Ibbenbueren-10_2_T-1
+	- DEU_Hennigsdorf-5_4_T-1
+	- DEU_Ibbenbueren-11_2_T-1
+	- DEU_Hennigsdorf-9_2_T-1
+	- DEU_Ibbenbueren-13_3_T-1
+	- DEU_Ibbenbueren-12_1_T-1
+	- DEU_Ibbenbueren-16_5_T-1
+	- DEU_Ibbenbueren-14_1_T-1
+	- DEU_Ibbenbueren-16_3_T-1
+	- DEU_Ibbenbueren-15_4_T-1
+	- DEU_Ibbenbueren-2_2_T-1
+	- DEU_Ibbenbueren-3_3_T-1
+	- DEU_Ibbenbueren-6_4_T-1
+	- DEU_Ibbenbueren-7_1_T-1
+	- DEU_Ibbenbueren-6_3_T-1
+	- DEU_Ibbenbueren-4_2_T-1
+	- DEU_Ibbenbueren-9_1_T-1
+	- DEU_Meckenheim-1_4_T-1
+	- DEU_Meckenheim-3_1_T-1
+	- DEU_Meckenheim-5_1_T-1
+	- DEU_Meckenheim-8_3_T-1
+	- DEU_Moabit-1_2_T-1
+	- DEU_Meckenheim-8_5_T-1
+	- DEU_Moabit-4_1_T-1
+	- DEU_Moabit-5_2_T-1
+	- DEU_Moabit-6_2_T-1
+	- DEU_Moelln-10_3_T-1
+	- DEU_Moelln-11_1_T-1
+	- DEU_Moelln-12_1_T-1
+	- DEU_Moelln-2_1_T-1
+	- DEU_Moelln-6_1_T-1
+	- DEU_Moelln-7_1_T-1
+	- DEU_Moelln-9_1_T-1
+	- DEU_Moelln-4_3_T-1
+	- DEU_Muehlhausen-14_3_T-1
+	- DEU_Muehlhausen-11_1_T-1
+	- DEU_Muehlhausen-1_2_T-1
+	- DEU_Muehlhausen-1_3_T-1
+	- DEU_Muehlhausen-5_1_T-1
+	- DEU_Muehlhausen-6_1_T-1
+	- DEU_Muehlhausen-4_1_T-1
+	- DEU_Muehlhausen-7_2_T-1
+	- DEU_Muehlhausen-2_1_T-1
+	- DEU_Speyer-2_4_T-1
+	- DEU_Speyer-5_2_T-1
+	- DEU_Rheinbach-5_3_T-1
+	- DEU_Rheinbach-1_4_T-1
+	- ESP_Berga-10_1_T-1
+	- ESP_Berga-4_4_T-1
+	- ESP_Berga-9_1_T-1
+	- ESP_Almansa-6_1_T-1
+	- ESP_Berga-6_1_T-1
+	- ESP_Cambre-1_1_T-1
+	- ESP_Cambre-3_1_T-1
+	- ESP_Cambre-2_1_T-1
+	- ESP_Ceuta-10_1_T-1
+	- ESP_Ceuta-1_2_T-1
+	- ESP_Ceuta-3_2_T-1
+	- ESP_Ceuta-15_2_T-1
+	- ESP_Ceuta-7_1_T-1
+	- ESP_Inca-7_1_T-1
+	- ESP_Ceuta-2_1_T-1
+	- ESP_Ceuta-4_1_T-1
+	- ESP_Ceuta-8_1_T-1
+	- ESP_Almansa-2_1_T-1
+	- ESP_Monzon-2_1_T-1
+	- ESP_Monzon-3_1_T-1
+	- ESP_Monzon-5_1_T-1
+	- ESP_Monzon-7_2_T-1
+	- ESP_PriegodeCordoba-2_3_T-1
+	- ESP_Monzon-7_3_T-1
+	- ESP_Monzon-6_1_T-1
+	- ESP_PriegodeCordoba-3_1_T-1
+	- ESP_SantBoideLlobregat-14_1_T-1
+	- ESP_SantBoideLlobregat-14_4_T-1
+	- ESP_SantBoideLlobregat-18_2_T-1
+	- ESP_PriegodeCordoba-6_1_T-1
+	- ESP_Requena-6_2_T-1
+	- ESP_SantBoideLlobregat-19_1_T-1
+	- ESP_Monzon-9_1_T-1
+	- ESP_SantBoideLlobregat-24_1_T-1
+	- ESP_SantBoideLlobregat-23_2_T-1
+	- ESP_SantBoideLlobregat-3_1_T-1
+	- ESP_SantBoideLlobregat-8_1_T-1
+	- ESP_SantBoideLlobregat-8_5_T-1
+	- ESP_Toledo-11_1_T-1
+	- ESP_SantBoideLlobregat-6_2_T-1
+	- ESP_Toledo-10_1_T-1
+	- ESP_Toledo-10_2_T-1
+	- ESP_Toledo-11_5_T-1
+	- ESP_Toledo-23_1_T-1
+	- ESP_Toledo-22_1_T-1
+	- ESP_Toledo-5_1_T-1
+	- FRA_Anglet-1_2_T-1
+	- FRA_Miramas-1_1_T-1
+	- ESP_Toledo-6_2_T-1
+	- ESP_Toledo-9_1_T-1
+	- FRA_Miramas-3_1_T-1
+	- FRA_Miramas-9_1_T-1
+	- FRA_Miramas-2_1_T-1
+	- FRA_Anglet-3_2_T-1
+	- FRA_Miramas-5_1_T-1
+	- FRA_MoissyCramayel-2_1_T-1
+	- FRA_MoissyCramayel-1_1_T-1
+	- GRC_Perama-2_1_T-1
+	- FRA_MoissyCramayel-4_1_T-1
+	- GRC_Perama-3_2_T-1
+	- FRA_Sete-1_1_T-1
+	- GRC_Perama-4_3_T-1
+	- HRV_Pula-12_3_T-1
+	- HRV_Pula-13_2_T-1
+	- GRC_Perama-7_1_T-1
+	- HRV_Pula-10_1_T-1
+	- HRV_Pula-15_1_T-1
+	- HRV_Pula-19_2_T-1
+	- HRV_Pula-18_1_T-1
+	- HRV_Pula-23_1_T-1
+	- HRV_Pula-21_1_T-1
+	- HRV_Pula-25_1_T-1
+	- HRV_Pula-24_1_T-1
+	- HRV_Pula-22_1_T-1
+	- HRV_Pula-27_2_T-1
+	- HRV_Pula-29_3_T-1
+	- HRV_Pula-31_1_T-1
+	- HRV_Pula-33_2_T-1
+	- HRV_Pula-5_3_T-1
+	- HRV_Pula-32_2_T-1
+	- HRV_Pula-5_2_T-1
+	- HRV_Pula-6_2_T-1
+	- HRV_Pula-9_2_T-1
+	- HRV_Pula-9_4_T-1
+	- ITA_CarpiCentro-1_3_T-1
+	- HRV_Pula-8_3_T-1
+	- HRV_Pula-7_2_T-1
+	- ITA_CarpiCentro-5_1_T-1
+	- ITA_CarpiCentro-3_1_T-1
+	- ITA_CarpiCentro-2_4_T-1
+	- ITA_CarpiCentro-8_3_T-1
+	- ITA_CarpiCentro-6_2_T-1
+	- ITA_Empoli-18_1_T-1
+	- ITA_Empoli-2_4_T-1
+	- ITA_Empoli-3_1_T-1
+	- ITA_CarpiCentro-7_1_T-1
+	- ITA_Empoli-2_5_T-1
+	- ITA_Empoli-7_3_T-1
+	- ITA_Empoli-8_2_T-1
+	- ITA_Empoli-4_2_T-1
+	- ITA_Foggia-10_1_T-1
+	- ITA_Foggia-11_1_T-1
+	- ITA_Foggia-1_1_T-1
+	- ITA_Foggia-3_1_T-1
+	- ITA_Foggia-4_2_T-1
+	- ITA_Foggia-6_1_T-1
+	- ITA_Foggia-13_1_T-1
+	- ITA_SanGiorgioaCremano-2_1_T-1
+	- ITA_Foggia-5_1_T-1
+	- ITA_Segrate-1_2_T-1
+	- ITA_SanGiorgioaCremano-3_1_T-1
+	- ITA_Siderno-10_1_T-1
+	- ITA_Segrate-2_3_T-1
+	- ITA_Scicli-2_1_T-1
+	- ITA_Siderno-3_2_T-1
+	- ITA_Siderno-2_4_T-1
+	- ITA_Siderno-4_4_T-1
+	- ITA_Siderno-4_3_T-1
+	- ITA_Foggia-7_2_T-1
+	- ITA_Siderno-5_4_T-1
+	- ITA_Siderno-8_4_T-1
+	- ITA_Siderno-8_5_T-1
+	- PRI_Barceloneta-4_3_T-1
+	- PRI_Barceloneta-4_5_T-1
+	- PRI_Barceloneta-3_1_T-1
+	- RUS_Bicycle-11_1_T-1
+	- PRI_Barceloneta-2_1_T-1
+	- RUS_Bicycle-10_1_T-1
+	- RUS_Bicycle-12_1_T-1
+	- RUS_Bicycle-1_1_T-1
+	- RUS_Bicycle-13_1_T-1
+	- RUS_Bicycle-14_1_T-1
+	- RUS_Bicycle-4_2_T-1
+	- RUS_Bicycle-6_1_T-1
+	- RUS_Bicycle-9_1_T-1
+	- RUS_Bicycle-5_1_T-1
+	- RUS_Bicycle-8_1_T-1
+	- USA_Peach-1_1_T-1
+	- RUS_Bicycle-2_1_T-1
+2020-12-28 15:23:30,820	Batch Processor	INFO	==============================      Solution not found      ==============================
+	- ARG_Carcarana-8_4_T-1
+	- BEL_Aarschot-6_1_T-1
+	- BEL_Putte-14_3_T-1
+	- BEL_Putte-17_1_T-1
+	- DEU_Flensburg-64_1_T-1
+	- DEU_Guetersloh-10_4_T-1
+	- DEU_Lohmar-12_1_T-1
+	- DEU_Lohmar-19_1_T-1
+	- DEU_Speyer-2_1_T-1
+	- ESP_Ceuta-11_1_T-1
+	- ESP_Ceuta-5_1_T-1
+	- ESP_Inca-3_2_T-1
+	- ESP_SantBoideLlobregat-22_3_T-1
+	- ESP_SantBoideLlobregat-4_1_T-1
+	- ESP_Toledo-8_1_T-1
+	- FRA_Anglet-2_1_T-1
+	- GRC_Perama-1_1_T-1
+	- ITA_Empoli-10_1_T-1
+	- ITA_Foggia-12_1_T-1
+	- ITA_Foggia-19_1_T-1
+	- USA_US101-5_1_T-1
+2020-12-28 15:23:30,820	Batch Processor	INFO	==============================           Time out           ==============================
+	- DEU_Flensburg-14_1_T-1
+	- DEU_Flensburg-12_1_T-1
+	- DEU_Flensburg-13_1_T-1
+	- DEU_Flensburg-17_1_T-1
+	- DEU_Flensburg-18_1_T-1
+	- DEU_Flensburg-16_1_T-1
+	- DEU_Flensburg-20_1_T-1
+	- DEU_Flensburg-19_1_T-1
+	- DEU_Flensburg-26_1_T-1
+	- DEU_Flensburg-27_1_T-1
+	- DEU_Flensburg-23_1_T-1
+	- DEU_Flensburg-25_1_T-1
+	- DEU_Flensburg-24_1_T-1
+	- DEU_Flensburg-31_1_T-1
+	- DEU_Flensburg-2_1_T-1
+	- DEU_Flensburg-30_1_T-1
+	- DEU_Flensburg-28_1_T-1
+	- DEU_Flensburg-35_1_T-1
+	- DEU_Flensburg-38_1_T-1
+	- DEU_Flensburg-33_1_T-1
+	- DEU_Flensburg-36_1_T-1
+	- DEU_Flensburg-37_1_T-1
+	- DEU_Flensburg-34_1_T-1
+	- DEU_Flensburg-39_1_T-1
+	- DEU_Flensburg-42_1_T-1
+	- DEU_Flensburg-41_1_T-1
+	- DEU_Flensburg-40_1_T-1
+	- DEU_Flensburg-44_1_T-1
+	- DEU_Flensburg-43_1_T-1
+	- DEU_Flensburg-48_1_T-1
+	- DEU_Flensburg-49_1_T-1
+	- DEU_Flensburg-45_1_T-1
+	- DEU_Flensburg-46_1_T-1
+	- DEU_Flensburg-47_1_T-1
+	- DEU_Flensburg-51_1_T-1
+	- DEU_Flensburg-52_1_T-1
+	- DEU_Flensburg-55_1_T-1
+	- DEU_Flensburg-56_1_T-1
+	- DEU_Flensburg-53_1_T-1
+	- DEU_Flensburg-54_1_T-1
+	- DEU_Flensburg-57_1_T-1
+	- DEU_Flensburg-60_1_T-1
+	- DEU_Flensburg-61_1_T-1
+	- DEU_Flensburg-62_1_T-1
+	- DEU_Flensburg-59_1_T-1
+	- DEU_Flensburg-63_1_T-1
+	- DEU_Flensburg-65_1_T-1
+	- DEU_Flensburg-67_1_T-1
+	- DEU_Flensburg-66_1_T-1
+	- DEU_Flensburg-68_1_T-1
+	- DEU_Flensburg-69_1_T-1
+	- DEU_Flensburg-70_1_T-1
+	- DEU_Flensburg-73_1_T-1
+	- DEU_Flensburg-74_1_T-1
+	- DEU_Flensburg-72_1_T-1
+	- DEU_Flensburg-75_1_T-1
+	- DEU_Flensburg-76_1_T-1
+	- DEU_Flensburg-77_1_T-1
+	- DEU_Flensburg-78_1_T-1
+	- DEU_Flensburg-80_1_T-1
+	- DEU_Flensburg-79_1_T-1
+	- DEU_Flensburg-82_1_T-1
+	- DEU_Flensburg-83_1_T-1
+	- DEU_Flensburg-84_1_T-1
+	- DEU_Flensburg-85_1_T-1
+	- DEU_Flensburg-87_1_T-1
+	- DEU_Flensburg-88_1_T-1
+	- DEU_Flensburg-89_1_T-1
+	- DEU_Flensburg-90_1_T-1
+	- DEU_Flensburg-91_1_T-1
+	- DEU_Flensburg-93_1_T-1
+	- DEU_Flensburg-94_1_T-1
+	- DEU_Flensburg-95_1_T-1
+	- DEU_Flensburg-96_1_T-1
+	- DEU_Flensburg-97_1_T-1
+	- DEU_Flensburg-98_1_T-1
+	- DEU_Flensburg-99_1_T-1
+	- DEU_Lohmar-10_1_T-1
+	- DEU_Lohmar-11_1_T-1
+	- DEU_Lohmar-13_1_T-1
+	- DEU_Lohmar-14_1_T-1
+	- DEU_Lohmar-15_1_T-1
+	- DEU_Lohmar-16_1_T-1
+	- DEU_Lohmar-22_1_T-1
+	- DEU_Lohmar-21_1_T-1
+	- DEU_Lohmar-17_1_T-1
+	- DEU_Lohmar-20_1_T-1
+	- DEU_Lohmar-18_1_T-1
+	- DEU_Lohmar-23_1_T-1
+	- DEU_Lohmar-24_1_T-1
+	- DEU_Lohmar-26_1_T-1
+	- DEU_Lohmar-25_1_T-1
+	- DEU_Lohmar-29_1_T-1
+	- DEU_Lohmar-30_1_T-1
+	- DEU_Lohmar-31_1_T-1
+	- DEU_Lohmar-32_1_T-1
+	- DEU_Lohmar-33_1_T-1
+	- DEU_Lohmar-34_1_T-1
+	- DEU_Lohmar-35_1_T-1
+	- DEU_Lohmar-36_1_T-1
+	- DEU_Lohmar-37_1_T-1
+	- DEU_Lohmar-38_1_T-1
+	- DEU_Lohmar-40_1_T-1
+	- DEU_Lohmar-39_1_T-1
+	- DEU_Lohmar-41_1_T-1
+	- DEU_Lohmar-42_1_T-1
+	- DEU_Lohmar-44_1_T-1
+	- DEU_Lohmar-45_1_T-1
+	- DEU_Lohmar-46_1_T-1
+	- DEU_Lohmar-47_1_T-1
+	- DEU_Lohmar-48_1_T-1
+	- DEU_Lohmar-49_1_T-1
+	- DEU_Lohmar-50_1_T-1
+	- DEU_Lohmar-51_1_T-1
+	- DEU_Lohmar-52_1_T-1
+	- DEU_Lohmar-54_1_T-1
+	- DEU_Lohmar-57_1_T-1
+	- DEU_Lohmar-58_1_T-1
+	- DEU_Lohmar-59_1_T-1
+	- DEU_Lohmar-60_1_T-1
+	- DEU_Lohmar-62_1_T-1
+	- DEU_Lohmar-64_1_T-1
+	- DEU_Lohmar-65_1_T-1
+	- DEU_Lohmar-66_1_T-1
+	- DEU_Lohmar-67_1_T-1
+	- DEU_Lohmar-68_1_T-1
+	- DEU_Lohmar-69_1_T-1
+	- DEU_Lohmar-70_1_T-1
+	- DEU_Lohmar-8_1_T-1
+	- DEU_Lohmar-9_1_T-1
+	- DEU_Luckenwalde-1_1_T-1
+	- DEU_Reutlingen-4_1_T-1
+	- DEU_Reutlingen-6_1_T-1
+	- DEU_Reutlingen-2_1_T-1
+	- RUS_Bicycle-3_1_T-1
+	- RUS_Bicycle-7_1_T-1
+	- USA_Lanker-1_2_T-1
+	- USA_Peach-2_1_T-1
+	- USA_Peach-3_1_T-1
+	- USA_US101-12_1_T-1
+	- USA_US101-14_1_T-1
+	- USA_US101-15_1_T-1
+	- USA_US101-16_2_T-1
+	- USA_US101-17_1_T-1
+	- USA_US101-21_2_T-1
+	- USA_US101-22_4_T-1
+	- USA_US101-23_2_T-1
+	- USA_US101-28_1_T-1
+	- USA_US101-29_1_T-1
+	- USA_US101-3_1_T-1
+	- USA_US101-4_1_T-1
+	- USA_US101-3_2_S-1
+	- USA_US101-6_1_T-1
+	- USA_US101-8_4_T-1
+	- USA_US101-9_1_T-1
+2020-12-28 15:23:30,821	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2020-12-28 15:23:30,821	Batch Processor	INFO	Total number of scenarios:  	       500
+2020-12-28 15:23:30,821	Batch Processor	INFO	Solution found:               	       289
+2020-12-28 15:23:30,821	Batch Processor	INFO	Solution found but invalid:   	         0
+2020-12-28 15:23:30,821	Batch Processor	INFO	Solution not found:           	        21
+2020-12-28 15:23:30,821	Batch Processor	INFO	Exception occurred:           	         0
+2020-12-28 15:23:30,822	Batch Processor	INFO	Time out:                     	       155

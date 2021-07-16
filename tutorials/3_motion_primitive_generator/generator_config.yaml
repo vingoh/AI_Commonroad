@@ -1,0 +1,36 @@
+# paths can be either relative or absolute, units shown in brackets []
+
+outputs:
+  # output directory for generated motion primitives
+  output_directory: ./saved_motion_primitives/
+
+vehicles:
+  # id of vehicle. 1: FORD_ESCORT, 2: BMW_320i, 3: VW_VANAGON
+  vehicle_type_id: 2
+
+primitives:
+  # time length of trajectory [s]
+  duration: 0.5
+  # time step for forward state simulation [s]
+  # note that commonroad scenarios have a discrete time step dt of 0.1 seconds
+  dt: 0.1
+  dt_simulation: 0.05
+
+  # sampling range [m/s]
+  velocity_sample_min: 0.0
+  velocity_sample_max: 20.0
+  # for a step of 1.0 m/s, num = (v_max - v_min) / 1.0 + 1
+  num_sample_velocity: 6
+
+  # steer to one side only, we can mirror the primitives afterwards [rad], min is usually 0
+  steering_angle_sample_min: 0
+  # if steering_angle_sample_max set to 0, it will be assigned the maximum value given by the
+  # parameters of the selected vehicle type
+  steering_angle_sample_max: 0.0
+  num_sample_steering_angle: 7
+
+sample_trajectories:
+  # number of segments of trajectory
+  num_segments_trajectory: 10
+  # number of sample trajectories to be generated
+  num_simulations: 2
